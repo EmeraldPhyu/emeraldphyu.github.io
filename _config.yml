@@ -59,7 +59,7 @@ social-network-links:
   # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
- linkedin: emerald-phh
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://emeraldphyu.github.io/"
+url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
