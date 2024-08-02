@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
 <!-- My name is Inigo Montoya. I have the following qualities:
