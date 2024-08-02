@@ -8,8 +8,7 @@ subtitle:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Me</title>
-     <style>
+    <style>
         body, html {
             margin: 0;
             padding: 0;
@@ -61,19 +60,21 @@ subtitle:
         .buttons {
             display: flex;
             justify-content: space-between;
+            gap: 10px; /* Add space between the buttons */
         }
 
         button {
             font-size: 16px;
             color: white;
-            background-color: green;
+            background-color: #eeeeee;
             border: none;
             border-radius: 5px;
             cursor: pointer;
+            flex: 1;
         }
 
         button.clear {
-            background-color: red;
+            background-color: #404040;
         }
 
         button:hover {
@@ -107,8 +108,8 @@ subtitle:
             <input type="text" id="title" name="title" required>
             <label for="message">Message</label>
             <textarea id="message" name="message" required></textarea>
-            <label for="attachment">Attachment</label>
-            <input type="file" id="attachment" name="attachment">
+            <!-- <label for="attachment">Attachment</label>
+            <input type="file" id="attachment" name="attachment"> -->
             <input type="hidden" name="_replyto" value="phyuhninhtway@gmail.com">
             <input type="hidden" name="_subject" value="New Contact Form Submission">
             <div class="buttons">
@@ -117,5 +118,10 @@ subtitle:
             </div>
         </form>
     </div>
+    <script>
+        function clearForm() {
+            document.getElementById('contact-form').reset();
+        }
+    </script>
 </body>
 </html>
