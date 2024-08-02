@@ -6,7 +6,7 @@ subtitle:
 
 <html>
 <head>
-    <title>PDF in HTML</title>
+    <title>RESUME PDF in HTML</title>
 </head>
 <style>
     .pdf {
@@ -37,7 +37,7 @@ subtitle:
     <object class="pdf"
             data=
 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf"
+"/assets/pdf/Resume_Emerald_PHH_010824.pdf"
 width="800"
 height="500">
 </object>
