@@ -54,52 +54,11 @@ subtitle:
 </head>
 <body>
     <div class="container">
-        <h1>Resume</h1>
         <object class="pdf" data="/assets/pdf/Resume_Emerald_PHH_010824.pdf" type="application/pdf">
             <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Resume_Emerald_PHH_010824.pdf">Download PDF</a>.</p>
         </object>
     </div>
 </body>
 </html>
-<!-- <html>
-<head>
-    <title>RESUME PDF in HTML</title>
-</head>
-<style>
-    .pdf {
-        width: 100%;
-        aspect-ratio: 4 / 3;
-    }
-
-    .pdf,
-    html,
-    body {
-        height: 100%;
-        margin: 0;
-        padding: 0;
-    }
-
-    h1,
-    h3 {
-        text-align: center;
-    }
-
-    h1 {
-        color: green;
-    }
-
-</style>
-
-<body>
-    <object class="pdf"
-            data=
-
-"/assets/pdf/Resume_Emerald_PHH_010824.pdf"
-width="800"
-height="500">
-</object>
-
-</body>
-</html> -->
-<!-- https://github.com/EmeraldPhyu/emeraldphyu.github.io/blob/master/assets/pdf/Resume_Emerald_PHH_010824.pdf -->
-<!-- "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf" -->
+<!-- Full URL: https://github.com/EmeraldPhyu/emeraldphyu.github.io/blob/master/assets/pdf/Resume_Emerald_PHH_010824.pdf -->
+<!-- Test: PDF "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf" -->
