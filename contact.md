@@ -66,7 +66,7 @@ subtitle:
         button {
             font-size: 16px;
             color: white;
-            background-color: #eeeeee;
+            background-color: #404040;
             border: none;
             border-radius: 5px;
             cursor: pointer;
@@ -74,7 +74,7 @@ subtitle:
         }
 
         button.clear {
-            background-color: #404040;
+            background-color: #c4c2c2;
         }
 
         button:hover {
@@ -103,7 +103,7 @@ subtitle:
 </head>
 <body>
     <div class="container">
-        <form action="https://formspree.io/f/xrbzqyzl" method="POST">
+        <form id="contact-form" action="https://formspree.io/f/xrbzqyzl" method="POST">
             <label for="title">Title</label>
             <input type="text" id="title" name="title" required>
             <label for="message">Message</label>
