@@ -1,10 +1,12 @@
 ---
-layout: home
+layout: page
 title: Resume
 subtitle:
 ---
 
-<a href="https://github.com/fabfabit/MyStuff_public/blob/master/files/ProjMarr_slides.pdf" class="image fit" ><img src="images/marr_pic.jpg" alt=""></a>
+### My story
+
+<a href="https://github.com/fabfabit/MyStuff_public/blob/master/files/ProjMarr_slides.pdf" class="image fit" > Here's my pdf <img src="images/marr_pic.jpg" alt=""></a>
 
 <!--
 My name is Inigo Montoya. I have the following qualities:
