@@ -4,13 +4,12 @@ title: Contact me
 subtitle:
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Me</title>
-    <style>
+     <style>
         body, html {
             margin: 0;
             padding: 0;
@@ -41,7 +40,7 @@ subtitle:
             color: #333;
         }
 
-        input, textarea {
+        input, textarea, button {
             margin-bottom: 15px;
             padding: 10px;
             font-size: 16px;
@@ -50,8 +49,8 @@ subtitle:
             width: 100%;
         }
 
-        input[type="text"], textarea {
-            width: 100%;
+        input[type="file"] {
+            padding: 5px;
         }
 
         textarea {
@@ -59,19 +58,26 @@ subtitle:
             resize: vertical;
         }
 
+        .buttons {
+            display: flex;
+            justify-content: space-between;
+        }
+
         button {
-            padding: 10px 20px;
             font-size: 16px;
             color: white;
             background-color: green;
             border: none;
             border-radius: 5px;
             cursor: pointer;
-            align-self: center;
+        }
+
+        button.clear {
+            background-color: red;
         }
 
         button:hover {
-            background-color: darkgreen;
+            opacity: 0.9;
         }
 
         @media (max-width: 600px) {
@@ -82,23 +88,33 @@ subtitle:
             button {
                 width: 100%;
             }
+
+            .buttons {
+                flex-direction: column;
+            }
+
+            button + button {
+                margin-top: 10px;
+            }
         }
     </style>
 
 </head>
 <body>
     <div class="container">
-        <h1>Contact Me</h1>
         <form action="https://formspree.io/f/xrbzqyzl" method="POST">
             <label for="title">Title</label>
             <input type="text" id="title" name="title" required>
             <label for="message">Message</label>
             <textarea id="message" name="message" required></textarea>
-            <label> Attachment if any:<input type="file" name="upload">
-            </label>
+            <label for="attachment">Attachment</label>
+            <input type="file" id="attachment" name="attachment">
             <input type="hidden" name="_replyto" value="phyuhninhtway@gmail.com">
             <input type="hidden" name="_subject" value="New Contact Form Submission">
-            <button type="submit">Send</button>
+            <div class="buttons">
+                <button type="submit">Send</button>
+                <button type="button" class="clear" onclick="clearForm()">Clear</button>
+            </div>
         </form>
     </div>
 </body>
