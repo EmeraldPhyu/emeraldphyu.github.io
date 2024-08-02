@@ -4,9 +4,7 @@ title: Resume
 subtitle:
 ---
 
-<!DOCTYPE html>
 <html>
-
 <head>
     <title>PDF in HTML</title>
 </head>
@@ -36,29 +34,14 @@ subtitle:
 </style>
 
 <body>
-
-    <h1>GeeksforGeeks</h1>
-    <h3>Embedding the PDF file Using Object Tag</h3>
     <object class="pdf"
             data=
 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf"
+"https://github.com/EmeraldPhyu/emeraldphyu.github.io/blob/master/assets/pdf/Resume_Emerald_PHH_010824.pdf"
 width="800"
 height="500">
 </object>
 
 </body>
-
 </html>
-
-<!--
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions. -->
+<!-- "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf" -->
