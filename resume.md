@@ -29,8 +29,8 @@ subtitle:
 
         .pdf {
             width: 100%;
-            max-width: 800px;
-            aspect-ratio: 4 / 3;
+            max-width: 1000px;
+            aspect-ratio: 16 / 9;
             border: 1px solid #ccc;
         }
 
