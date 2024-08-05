@@ -30,7 +30,7 @@ subtitle:
         .pdf {
             width: 100%;
             max-width: 1000px;
-            aspect-ratio: 16 / 9;
+            aspect-ratio: 4 / 3;
             border: 1px solid #ccc;
         }
 
@@ -43,7 +43,7 @@ subtitle:
             color: green;
         }
 
-        @media (max-width: 600px) {
+        @media (max-width: 1000px) {
             .pdf {
                 width: 100%;
                 height: auto;
@@ -60,5 +60,5 @@ subtitle:
     </div>
 </body>
 </html>
-<!-- Full URL: https://github.com/EmeraldPhyu/emeraldphyu.github.io/blob/master/assets/pdf/Resume_Emerald_PHH_010824.pdf -->
+<!-- Full: https://github.com/EmeraldPhyu/emeraldphyu.github.io/blob/master/assets/pdf/Resume_Emerald_PHH_010824.pdf -->
 <!-- Test: PDF "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210101201653/PDF.pdf" -->
