@@ -13,8 +13,7 @@ subtitle:
 </head>
 <body>
     <div class="container">
-        <h1>Projects Coming Soon</h1>
-        <p>I'm currently working on some exciting projects. Check back soon to see what I've been up to!</p>
+        <p>Coming Soon ~ I'm currently working on some exciting projects. Check back soon to see what I've been up to!</p>
     </div>
 </body>
 </html>
