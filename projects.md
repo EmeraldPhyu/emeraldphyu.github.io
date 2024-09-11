@@ -30,12 +30,12 @@ Managed the continuous development of UTrade’s mobile apps (iOS and Android)fo
 <p><b>GuruCool Platform (Hybrid)</b><br />
 As part of my master program, I contributed to the development of the GuruCool platform for Tetherfi, a Proof of Concept (MVP) designed to attract students for internships. This project leveraged a robust cloud infrastructure built on AWS services, including:
 <ul>
-  <li><b>AWS Lambda</b> for scalable and serverless compute</li>
-  <li><b>API Gateway</b> for efficient API management and caching</li>
-  <li><b>AWS Amplify</b> for rapid web and mobile app development</li>
-  <li><b>CloudWatch</b> for comprehensive monitoring and metrics analysis</li>
-  <li><b>DynamoDB and DynamoDB Stream</b> for scalable, NoSQL data storage and event-driven architecture</li>
-  <li><b>AWS CodePipeline</b> for automated continuous integration and continuous delivery (CI/CD)</li>
+  <li>AWS Lambda for scalable and serverless compute</li>
+  <li>API Gateway for efficient API management and caching</li>
+  <li>AWS Amplify for rapid web and mobile app development</li>
+  <li>CloudWatch for comprehensive monitoring and metrics analysis</li>
+  <li>DynamoDB and DynamoDB Stream for scalable, NoSQL data storage and event-driven architecture</li>
+  <li>AWS CodePipeline for automated continuous integration and continuous delivery (CI/CD)</li>
 </ul>
 By partnering closely with stakeholders, we ensured that the platform's features aligned with Tetherfi's talent acquisition and value creation strategy. The frontend was built using the React open-source library, providing a dynamic and user-friendly interface.</p>
 </p>
