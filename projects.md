@@ -57,13 +57,13 @@ Involved in the design and development of a warehouse management solution for Cu
 <p>
 <h3>2014-2015</h3>
 <p>
-<a href="https://www.yamagin.net/">Yamagin</a></n>
+<a href="https://www.yamagin.net/">Yamagin</a><br />
 Contributed in web marketing, e-commerce, and server control for Yamagin, employing technologies like Struts2, Spring, Hibernate, JPA, SQL, GWT, and MAVEN. Enhanced the site’s functionality and scalability to meet growing business needs.
 </p>
-<p><a href="https://www.colayhills.com/en/">ColayAutomobile</a></n>
+<p><a href="https://www.colayhills.com/en/">ColayAutomobile</a><br />
 Improved site performance and search engine visibility for ColayAutomobile by implementing Indexing Server and Solr. Optimized SEO, integrated Google Analytics, and ensured seamless MIME mailing services, contributing to enhanced user experience and business growth.
 </p>
-    </div>
+</div>
 </body>
 </html>
 
