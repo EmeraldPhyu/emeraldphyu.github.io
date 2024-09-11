@@ -107,11 +107,9 @@ subtitle:
             <label for="title">Title</label>
             <input type="text" id="title" name="title" required>
             <label for="message">Message</label>
-            <textarea id="message" name="message" required> Or You may leave your contact! </textarea>
+            <textarea id="message" name="message" required></textarea>
             <label for="contact">Leave your contact</label>
             <input type="text" id="contact" name="contact">
-            <!-- <label for="attachment">Attachment</label>
-            <input type="file" id="attachment" name="attachment"> -->
             <input type="hidden" name="_replyto" value="phyuhninhtway@gmail.com">
             <input type="hidden" name="_subject" value="New Contact Form Submission">
             <div class="buttons">
