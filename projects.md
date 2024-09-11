@@ -30,7 +30,7 @@ Contributed to the creation and enhancement of Advisor T, a mobile solution desi
 <p>
 Managed the continuous development of UTrade’s mobile apps (iOS and Android)for <a href="https://www.uobkayhian.com/"> UOBKH Group</a>, introducing new functionalities and performing regular updates to improve performance and user satisfaction.
 </p>
-<p><b style='color:blue !important;'>GuruCool Platform (Hybrid)</b></p>
+<p><b style='color:blue;'>GuruCool Platform (Hybrid)</b></p>
 <p>
 As part of my master program, I contributed to the development of the GuruCool platform for Tetherfi, a Proof of Concept (MVP) designed to attract students for internships. This project leveraged a robust cloud infrastructure built on AWS services, including:
 <ul>
@@ -56,12 +56,11 @@ Involved in the design and development of a warehouse management solution for Cu
 </p>
 <p>
 <h3>2014-2015</h3>
-<a href="https://www.yamagin.net/">#Yamagin</a>
 <p>
+<a href="https://www.yamagin.net/">#Yamagin</a></n>
 Contributed in web marketing, e-commerce, and server control for Yamagin, employing technologies like Struts2, Spring, Hibernate, JPA, SQL, GWT, and MAVEN. Enhanced the site’s functionality and scalability to meet growing business needs.
 </p>
-<a href="https://www.colayhills.com/en/">#ColayAutomobile</a>
-<p>
+<p><a href="https://www.colayhills.com/en/">#ColayAutomobile</a></n>
 Improved site performance and search engine visibility for ColayAutomobile by implementing Indexing Server and Solr. Optimized SEO, integrated Google Analytics, and ensured seamless MIME mailing services, contributing to enhanced user experience and business growth.
 </p>
     </div>
