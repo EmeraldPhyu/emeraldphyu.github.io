@@ -15,23 +15,19 @@ subtitle:
     <div class="container">
         <p>
         <h3>2018-2024</h3>
-<b>OCBC Singapore Securities Mobile Apps</b>
-<p>
+<p><b>OCBC Singapore Securities Mobile Apps</b><br />
 Spearheaded the development and ongoing maintenance of mobile apps for 
 <a href="https://www.iocbc.com/">OCBC Singapore Securities</a>
 , ensuring seamless user experiences across iPhone and Android platforms.
 Delivered new features that enhanced trading capabilities, security, and user engagement, contributing to the app’s success in a competitive market.</p>
-</p>
-<b>Advisor T Singapore</b>
-<p>
+
+<p><b>Advisor T Singapore</b><br />
 Contributed to the creation and enhancement of Advisor T, a mobile solution designed for brokers in Singapore under <a href="https://www.uobkayhian.com/"> UOBKH Group</a>. Took responsibility for implementing feature-rich updates and ensuring platform stability, delivering a reliable tool for financial professionals
 </p>
-<b>UTrade Singapore Mobile Apps</b>
-<p>
+<p><b>UTrade Singapore Mobile Apps</b><br />
 Managed the continuous development of UTrade’s mobile apps (iOS and Android)for <a href="https://www.uobkayhian.com/"> UOBKH Group</a>, introducing new functionalities and performing regular updates to improve performance and user satisfaction.
 </p>
-<p><b>GuruCool Platform (Hybrid)</b></p>
-<p>
+<p><b>GuruCool Platform (Hybrid)</b><br />
 As part of my master program, I contributed to the development of the GuruCool platform for Tetherfi, a Proof of Concept (MVP) designed to attract students for internships. This project leveraged a robust cloud infrastructure built on AWS services, including:
 <ul>
   <li><b>AWS Lambda</b> for scalable and serverless compute</li>
@@ -42,30 +38,29 @@ As part of my master program, I contributed to the development of the GuruCool p
   <li><b>AWS CodePipeline</b> for automated continuous integration and continuous delivery (CI/CD)</li>
 </ul>
 By partnering closely with stakeholders, we ensured that the platform's features aligned with Tetherfi's talent acquisition and value creation strategy. The frontend was built using the React open-source library, providing a dynamic and user-friendly interface.</p>
+</p>
 <p><h3>2016-2018</h3>
-<b>SAM Kiosk</b>
-<p>
+<p><b>SAM Kiosk</b><br />
 As part of the design and development team, contributed in creation of a next-generation interactive kiosk for Singapore Post, leveraging iOS enterprise technologies. The kiosk featured advanced bill payment and purchasing options, enhancing customer convenience and service efficiency. This kiosk machine is widely deployed and can be found in almost every MRT station across Singapore.</p>
-<b>Crossed Room Management System</b>
-<p>
+<p><b>Crossed Room Management System</b><br />
 Played an integral role in designing and developing a comprehensive room management system using .NET, Microsoft SQL, and iOS Swift for the Ministry of National Development (MND), Building and Construction Authority (BCA), and Agri-Food and Veterinary Authority (AVA). The system streamlined room booking and management processes, enhancing operational efficiency.
 </p>
-<b>Cubic Warehouse Management Mobile App and Back-end Control System</b>
-<p>
+<p><b>Cubic Warehouse Management Mobile App and Back-end Control System</b><br />
 Involved in the design and development of a warehouse management solution for Cubic Corporation, leveraging the LAMP stack (Linux, Apache, MySQL, PHP/Perl) for Android. The solution optimized inventory management and boosted operational productivity.
+</p>
 </p>
 <p>
 <h3>2014-2015</h3>
-<p>
-<a href="https://www.yamagin.net/">Yamagin</a><br />
+<p><a href="https://www.yamagin.net/">Yamagin</a><br />
 Contributed in web marketing, e-commerce, and server control for Yamagin, employing technologies like Struts2, Spring, Hibernate, JPA, SQL, GWT, and MAVEN. Enhanced the site’s functionality and scalability to meet growing business needs.
 </p>
 <p><a href="https://www.colayhills.com/en/">ColayAutomobile</a><br />
 Improved site performance and search engine visibility for ColayAutomobile by implementing Indexing Server and Solr. Optimized SEO, integrated Google Analytics, and ensured seamless MIME mailing services, contributing to enhanced user experience and business growth.
 </p>
-</div>
+</p>
+<!-- </div>
 </body>
-</html>
+</html> -->
 
 <!-- body {
     margin: 0;
