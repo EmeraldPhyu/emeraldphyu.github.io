@@ -63,10 +63,8 @@ Contributed in web marketing, e-commerce, and server control for Yamagin, employ
 <a href="https://www.colayhills.com/en/">#ColayAutomobile</a>
 <p>
 Improved site performance and search engine visibility for ColayAutomobile by implementing Indexing Server and Solr. Optimized SEO, integrated Google Analytics, and ensured seamless MIME mailing services, contributing to enhanced user experience and business growth.
-<p>
 </p>
     </div>
-
 </body>
 </html>
 
