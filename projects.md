@@ -81,7 +81,6 @@ Built an Android-based warehouse management solution for Cubic Corporation, boos
 </ul>
 <b>Technologies:</b> LAMP stack (Linux, Apache, MySQL, PHP/Perl), Android SDK
 </p>
-</p>
 <p>
 <h3>2014-2015</h3>
 <p><a href="https://www.yamagin.net/">Yamagin</a><br />
@@ -102,6 +101,7 @@ Improved ColayAutomobile’s search engine visibility through SEO and Solr imple
 Integrated MIME mailing services, ensuring 99.9% email delivery success rates for customer communications.
 </li>
 <b>Technologies:</b> Solr, Google Analytics, Indexing Server
+</p>
 </p>
 
 <!-- </div>

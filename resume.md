@@ -54,7 +54,7 @@ subtitle:
 </head>
 <body>
     <div class="container">
-        <object class="pdf" data="/assets/pdf/Resume_Emerald_PHH_010824.pdf" type="application/pdf">
+        <object class="pdf" data="/assets/pdf/Resume of Emerald for Integration Specialist 161224.pdf" type="application/pdf">
             <p>Your browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Resume of Emerald for Integration Specialist 161224.pdf">Download PDF</a>.</p>
         </object>
     </div>
