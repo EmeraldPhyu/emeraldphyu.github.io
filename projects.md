@@ -15,7 +15,7 @@ subtitle:
     <div class="container">
         <p>
         <h3>2018-2024</h3>
-<p><b>OCBC Singapore Securities Mobile Apps</b><br />
+<p><b>OCBC Singapore Securities Mobile Apps</b>
 <ul>
 <li>
 Led the development and maintenance of native iOS and Android mobile apps for
@@ -26,7 +26,7 @@ Led the development and maintenance of native iOS and Android mobile apps for
 <b>Technologies:</b> Objective C, Swift, Android, REST APIs, Firebase, Jenkins, JSON, sqlite, postman
 </p>
 
-<p><b>Advisor T Singapore</b><br/>
+<p><b>Advisor T Singapore</b>
 <ul>
 <li>
 Contributed to the creation and enhancement of Advisor T, a mobile solution designed for brokers in Singapore under <a href="https://www.uobkayhian.com/"> UOBKH Group</a>. </li>
@@ -35,7 +35,7 @@ Contributed to the creation and enhancement of Advisor T, a mobile solution desi
 </ul>
 <b>Technologies:</b> Objective C, Swift, Android, REST APIs, Firebase, JSON, sqlite
 </p>
-<p><b>UTrade Singapore Mobile Apps</b><br />
+<p><b>UTrade Singapore Mobile Apps</b>
 <ul>
 <li>
 Re-Invented and managed the continuous development of UTrade’s mobile apps (iOS and Android)for <a href="https://www.uobkayhian.com/"> UOBKH Group</a>, adding real-time stock tracking and custom notifications, which increased active user retention by 15%.
@@ -62,6 +62,7 @@ Gained customer satisfaction by 25% through intuitive UI design and optimized tr
 </li>
 </ul>
 <b>Technologies:</b> Swift, Objective-C, iOS Enterprise Tools
+</p>
 </p>
 <p><b>Crossed Room Management System</b><br />
 <ul>
@@ -91,6 +92,7 @@ Enhanced Yamagin’s e-commerce platform by upgrading backend systems, enabling 
 </ul>
 <b>Technologies:</b> Struts2, Spring, Hibernate, JPA, SQL, GWT, Maven
 </p>
+</p>
 <p><a href="https://www.colayhills.com/en/">ColayAutomobile</a><br />
 <ul>
 <li>
@@ -101,7 +103,7 @@ Integrated MIME mailing services, ensuring 99.9% email delivery success rates fo
 </li>
 <b>Technologies:</b> Solr, Google Analytics, Indexing Server
 </p>
-</p>
+
 <!-- </div>
 </body>
 </html> -->
