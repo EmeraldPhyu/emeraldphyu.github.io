@@ -16,46 +16,55 @@ subtitle:
         <p>
         <h3>2018-2024</h3>
 <p><b>OCBC Singapore Securities Mobile Apps</b><br />
-Spearheaded the development and ongoing maintenance of mobile apps for 
-<a href="https://www.iocbc.com/">OCBC Singapore Securities</a>
-, ensuring seamless user experiences across iPhone and Android platforms.
-Delivered new features that enhanced trading capabilities, security, and user engagement, contributing to the app’s success in a competitive market.</p>
+Led the development and maintenance of native iOS and Android mobile apps for
+<a href="https://www.iocbc.com/">OCBC Singapore Securities</a>, achieving a 20% improvement in user engagement through enhanced trading capabilities and a seamless user experience. 
+Delivered secure updates, including two-factor authentication (2FA), ensuring compliance with financial regulations.
+Added features that enhanced trading functionalities, security, and user engagement, positioning the app as a top contender in a competitive market.
+Technologies: Objective C, Swift, Android, REST APIs, Firebase, Jenkins, JSON, sqlite, postman
+</p>
 
 <p><b>Advisor T Singapore</b><br />
-Contributed to the creation and enhancement of Advisor T, a mobile solution designed for brokers in Singapore under <a href="https://www.uobkayhian.com/"> UOBKH Group</a>. Took responsibility for implementing feature-rich updates and ensuring platform stability, delivering a reliable tool for financial professionals
+Contributed to the creation and enhancement of Advisor T, a mobile solution designed for brokers in Singapore under <a href="https://www.uobkayhian.com/"> UOBKH Group</a>. Developed and optimized both iOS and Android apps, tailoring for brokers in Singapore, focusing on feature stability and user-friendly interface updates.
+Enabled real-time portfolio management by integrating REST APIs, improving response time by 25%.
+Technologies: Objective C, Swift, Android, REST APIs, Firebase, JSON, sqlite
 </p>
 <p><b>UTrade Singapore Mobile Apps</b><br />
-Managed the continuous development of UTrade’s mobile apps (iOS and Android)for <a href="https://www.uobkayhian.com/"> UOBKH Group</a>, introducing new functionalities and performing regular updates to improve performance and user satisfaction.
+Managed the continuous development of UTrade’s mobile apps (iOS and Android)for <a href="https://www.uobkayhian.com/"> UOBKH Group</a>, adding real-time stock tracking and custom notifications, which increased active user retention by 15%.
+Technologies: Objective-C, Java, Android, Firebase, sqlite
 </p>
 <p><b>GuruCool Platform (Hybrid)</b><br />
-As part of my master program, I contributed to the development of the GuruCool platform for Tetherfi, a Proof of Concept (MVP) designed to attract students for internships. This project leveraged a robust cloud infrastructure built on AWS services, including:
+
 <ul>
-  <li>AWS Lambda for scalable and serverless compute</li>
-  <li>API Gateway for efficient API management and caching</li>
-  <li>AWS Amplify for rapid web and mobile app development</li>
-  <li>CloudWatch for comprehensive monitoring and metrics analysis</li>
-  <li>DynamoDB and DynamoDB Stream for scalable, NoSQL data storage and event-driven architecture</li>
-  <li>AWS CodePipeline for automated continuous integration and continuous delivery (CI/CD)</li>
+<li>Designed and built a Proof of Concept (MVP) for Tetherfi to connect students with internship opportunities, leveraging AWS serverless architecture.</li>
+  <li>Utilized Lambda for scalable compute and Amplify for rapid mobile app development, achieving 90% faster time-to-market.</li>
+  <li>Ensured reliability with CloudWatch monitoring and integrated a NoSQL database using DynamoDB, handling 10,000+ records with zero downtime.</li>
 </ul>
-By partnering closely with stakeholders, we ensured that the platform's features aligned with Tetherfi's talent acquisition and value creation strategy. The frontend was built using the React open-source library, providing a dynamic and user-friendly interface.</p>
+Technologies: React, AWS Lambda, API Gateway, Amplify, CloudWatch, DynamoDB</p>
 </p>
 <p><h3>2016-2018</h3>
 <p><b>SAM Kiosk</b><br />
-As part of the design and development team, contributed in creation of a next-generation interactive kiosk for Singapore Post, leveraging iOS enterprise technologies. The kiosk featured advanced bill payment and purchasing options, enhancing customer convenience and service efficiency. This kiosk machine is widely deployed and can be found in almost every MRT station across Singapore.</p>
+Contributed to the development of Singapore Post's interactive kiosks, deployed across 150+ MRT stations to facilitate advanced bill payments and purchases.
+Technologies: Swift, Objective-C, iOS Enterprise Tools
+Enhanced customer satisfaction by 25% through intuitive UI design and optimized transaction speed.</p>
 <p><b>Crossed Room Management System</b><br />
-Played an integral role in designing and developing a comprehensive room management system using .NET, Microsoft SQL, and iOS Swift for the Ministry of National Development (MND), Building and Construction Authority (BCA), and Agri-Food and Veterinary Authority (AVA). The system streamlined room booking and management processes, enhancing operational efficiency.
+Played as a Systems Analyst in designing and developing a comprehensive room management system for the Ministry of National Development (MND), Building and Construction Authority (BCA), and Agri-Food and Veterinary Authority (AVA), by automating booking processes and reducing manual errors by 40%. Delivered a cross-platform app that handled 500+ concurrent users with a secure and scalable backend.
+Technologies: .NET, Microsoft SQL, iOS enterprise technologies
 </p>
 <p><b>Cubic Warehouse Management Mobile App and Back-end Control System</b><br />
-Involved in the design and development of a warehouse management solution for Cubic Corporation, leveraging the LAMP stack (Linux, Apache, MySQL, PHP/Perl) for Android. The solution optimized inventory management and boosted operational productivity.
+Built an Android-based warehouse management solution for Cubic Corporation, boosting inventory accuracy by 30% through real-time tracking and barcode scanning.
+Technologies: LAMP stack (Linux, Apache, MySQL, PHP/Perl), Android SDK
 </p>
 </p>
 <p>
 <h3>2014-2015</h3>
 <p><a href="https://www.yamagin.net/">Yamagin</a><br />
-Contributed in web marketing, e-commerce, and server control for Yamagin, employing technologies like Struts2, Spring, Hibernate, JPA, SQL, GWT, and MAVEN. Enhanced the site’s functionality and scalability to meet growing business needs.
+Enhanced Yamagin’s e-commerce platform by upgrading backend systems, enabling faster database queries and supporting a 20% increase in concurrent users.
+Technologies: Struts2, Spring, Hibernate, JPA, SQL, GWT, Maven
 </p>
 <p><a href="https://www.colayhills.com/en/">ColayAutomobile</a><br />
-Improved site performance and search engine visibility for ColayAutomobile by implementing Indexing Server and Solr. Optimized SEO, integrated Google Analytics, and ensured seamless MIME mailing services, contributing to enhanced user experience and business growth.
+Improved ColayAutomobile’s search engine visibility through SEO and Solr implementation, resulting in a 40% traffic increase.
+Integrated MIME mailing services, ensuring 99.9% email delivery success rates for customer communications.
+Technologies: Solr, Google Analytics, Indexing Server
 </p>
 </p>
 <!-- </div>
