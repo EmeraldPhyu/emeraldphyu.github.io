@@ -101,8 +101,8 @@ Improved ColayAutomobile’s search engine visibility through SEO and Solr imple
 Integrated MIME mailing services, ensuring 99.9% email delivery success rates for customer communications.
 </li>
 <b>Technologies:</b> Solr, Google Analytics, Indexing Server
-</p>
-</p>
+<!-- </p>
+</p> -->
 
 <!-- </div>
 </body>
