@@ -24,8 +24,8 @@ Led the development and maintenance of native iOS and Android mobile apps for
 <li>Added features that enhanced trading functionalities, security, and user engagement, positioning the app as a top contender in a competitive market.
 </li>
 <b>Technologies:</b> Objective C, Swift, Android, REST APIs, Firebase, Jenkins, JSON, Sqlite, Postman
-</p>
 </ul>
+</p>
 <p><b>Advisor T Singapore</b>
 <ul>
 <li>
