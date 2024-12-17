@@ -88,8 +88,8 @@ Built an Android-based warehouse management solution for Cubic Corporation, boos
 <li>
 Enhanced Yamagin’s e-commerce platform by upgrading backend systems, enabling faster database queries and supporting a 20% increase in concurrent users.
 </li>
-</ul>
 <b>Technologies:</b> Struts2, Spring, Hibernate, JPA, SQL, GWT, Maven
+</ul>
 </p>
 </p>
 <p><a href="https://www.colayhills.com/en/">ColayAutomobile</a><br />
@@ -101,6 +101,7 @@ Improved ColayAutomobile’s search engine visibility through SEO and Solr imple
 Integrated MIME mailing services, ensuring 99.9% email delivery success rates for customer communications.
 </li>
 <b>Technologies:</b> Solr, Google Analytics, Indexing Server
+</ul>
 <!-- </p>
 </p> -->
 
